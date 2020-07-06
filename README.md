@@ -1,3 +1,5 @@
+![st](asset/term_img.png)
+
 # Patched:
 - Ligatures
 - Alpha
